@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "port_oxc_number_parsers"
+version = "0.1.0"
+
+[[package]]
 name = "testing"
 version = "0.1.0"
 

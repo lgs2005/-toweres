@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = [
+members = [ "crates/port_oxc_number_parsers",
   "crates/testing",
   "crates/tower_ast",
   "crates/tower_parser",
