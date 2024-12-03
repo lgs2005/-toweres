@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = [
+  "crates/testing",
+  "crates/tower_ast",
+  "crates/tower_parser",
+  "crates/tower_runtime",
+]
