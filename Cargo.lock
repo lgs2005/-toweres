@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "generator"
+version = "0.1.0"
+
+[[package]]
 name = "port_dragonbox"
 version = "0.1.0"
 
@@ -28,4 +32,8 @@ version = "0.1.0"
 
 [[package]]
 name = "tower_runtime"
+version = "0.1.0"
+
+[[package]]
+name = "unicode_id"
 version = "0.1.0"
