@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+bumpalo = { version = "3.16.0", features = ["collections"] }
+port_dragonbox = { version = "0.1.0", path = "../port_dragonbox" }
+port_oxc_number_parsers = { version = "0.1.0", path = "../port_oxc_number_parsers" }
+port_v8_double_to_string_radix = { version = "0.1.0", path = "../port_v8_double_to_string_radix" }
+unicode_id = { version = "0.1.0", path = "../unicode_id" }
